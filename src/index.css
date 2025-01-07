@@ -7,12 +7,8 @@
 }
 
 body {
-  background-color: #2c2c2d;
+  background-color: #19191a;
   color: #fefefe;
-  background-image: url("/src/assets/Black\ Abstract\ Stone\ Texture\ Zoom\ Virtual\ Background.png");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
 }
 
 #root {
@@ -324,6 +320,7 @@ select {
   td,
   tr {
     display: block;
+    background-color: #2c2c2d
   }
 
   thead {
