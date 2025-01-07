@@ -19,11 +19,11 @@ export default function ItemsTable() {
       <tbody>
         {items.map((item) => (
           <tr key={item.id}>
-            <td>{item.id}</td>
-            <td>{item.name}</td>
-            <td>{item.quantity} unid.</td>
-            <td>{item.category}</td>
-            <td>
+            <td data-label="ID">{item.id}</td>
+            <td data-label="Nome">{item.name}</td>
+            <td data-label="Em Estoque">{item.quantity} unid.</td>
+            <td data-label="Categoria">{item.category}</td>
+            <td data-label="Ações">
               <Link to={`/items/${item.id}`} className="button is-primary is-small">
                 Ver
               </Link>
@@ -36,5 +36,5 @@ export default function ItemsTable() {
         ))}
       </tbody>
     </table>
-  )
+  );
 }
