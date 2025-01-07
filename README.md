@@ -4,45 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gerenciador de Estoque - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px auto;
-      max-width: 800px;
-      padding: 20px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #333;
-      color: #fefefe;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin: 10px 0;
-      padding: 0 20px;
-    }
-    .code-block {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-  </style>
 </head>
 <body>
 
