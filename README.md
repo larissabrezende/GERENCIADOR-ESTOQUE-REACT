@@ -80,9 +80,6 @@ npm run build
   </pre>
   <p>Os arquivos serão gerados na pasta <code>dist/</code>.</p>
 
-  <h2>🎨 Design Responsivo</h2>
-  <p>A partir de 768px, os botões de <strong>Ver</strong>, <strong>Atualizar</strong> e <strong>Excluir</strong> são reposicionados para baixo e alinhados lado a lado para melhorar a legibilidade e usabilidade em dispositivos móveis.</p>
-
   <h2>🤝 Contribuições</h2>
   <p>Contribuições são bem-vindas! Siga os passos abaixo para colaborar:</p>
   <ol>
