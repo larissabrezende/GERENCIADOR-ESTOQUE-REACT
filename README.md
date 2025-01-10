@@ -99,10 +99,7 @@ git push origin feature/nova-feature
     <li>Abra um <strong>Pull Request</strong>.</li>
   </ol>
 
-  <h2>📜 Licença</h2>
-  <p>Este projeto está licenciado sob a licença <strong>MIT</strong>. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
-
-  <hr>
+ <hr>
   <p><strong>Desenvolvido com 💙 por Larissa Rezende</strong><p>
 
 </body>
